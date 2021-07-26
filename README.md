@@ -1,1 +1,4 @@
-The repository includes [Wiki pages](../../wiki) for our lab, describing useful tools, documents, computational platforms, etc.
+* Look at these [Wiki pages](../../wiki).
+
+### Some useful **tutorials**: 
+* https://github.com/balabanmetin/pip-conda-tutorial-diameter
