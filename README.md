@@ -11,3 +11,6 @@
 * Skmer+APPLES: https://github.com/smirarab/tutorials/blob/master/Skmer-APPLES-tutorial.md
 * SEPP+TIPP+PASTA+UPP: https://github.com/smirarab/tutorials/blob/master/sepp-tipp-upp-pasta-short.md
 * ASTRAL: https://github.com/smirarab/ASTRAL/blob/master/astral-tutorial.md
+
+### Resources:
+* https://github.com/yueyujiang/Nautilus_tutorial
