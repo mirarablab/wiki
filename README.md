@@ -2,6 +2,8 @@
 
 ## Some useful **tutorials**: 
 
+Videos for lab members: https://drive.google.com/drive/folders/1QwkVr4CgW27Ej-ASES_i_Cuxq4u9ubS3
+
 ### General Tools
 * Pip and Conda:  https://github.com/balabanmetin/pip-conda-tutorial-diameter
 * SnakeMake + Singularity: https://github.com/balabanmetin/snakemake-tutorial/
