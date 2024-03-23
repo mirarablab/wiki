@@ -15,6 +15,7 @@ Videos for lab members: [link](https://drive.google.com/drive/folders/1QwkVr4CgW
 * [Skmer+APPLES](https://github.com/smirarab/tutorials/blob/master/Skmer-APPLES-tutorial.md)
 * [SEPP+TIPP+PASTA+UPP](https://github.com/smirarab/tutorials/blob/master/sepp-tipp-upp-pasta-short.md)
 * [ASTRAL](https://github.com/smirarab/ASTRAL/blob/master/astral-tutorial.md)
+* [Contamination removal with CONSULT](https://bo1929.github.io/posts/consult-contamination-removal-tutorial/)
 
 ### Resources
 * [Using Nautilus](https://github.com/yueyujiang/Nautilus_tutorial)
